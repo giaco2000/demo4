@@ -10,4 +10,6 @@ Wirth began his rise to prominence in computer science by creating two languages
 
 Both languages were heavily influenced by Algol. Wirth was part of the elite international group centered on the Algol project, which collaborated to define and implement a series of language standards. The first high level languages, such as FORTRAN, were popular because they made it much easier to write and maintain application programs. But they were hard for computer companies to implement because the hardware was so limited, compiler techniques were poorly understood, and the languages themselves were clumsy or overly complex. Algol 60, the most important creation of the Algol group, introduced recursive functions, structured code blocks, and local variables. It also pioneered the formal description of programming language syntax.
 
-Wirth discusses his introduction to compiler design as a graduate student.	
+Wirth discusses his introduction to compiler design as a graduate student.
+
+Starting in 1957, when academic departments and regular conferences for computer scientists did not yet exist, the Algol project laid a vital foundation for the emerging discipline. Through Algol, Wirth collaborated with other future Turing Award winners including C.A.R. (Tony) Hoare, Edsger Dijkstra, and Peter Naur. Like Wirth, all had joined the group after showing early promise as designers of compilers and other systems software, production of which was the major practical challenge facing computer scientists during this era.
